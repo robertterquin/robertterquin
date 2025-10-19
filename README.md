@@ -33,8 +33,6 @@
   <li>⚙️ HackForGov 2025 – CALABARZON</li>
   <li>🌐 Responsive Web Design – freeCodeCamp</li>
 </ul>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=robertlaqui&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ###
