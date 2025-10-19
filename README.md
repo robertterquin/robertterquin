@@ -31,7 +31,6 @@
   <li>☕ Oracle Academy – Java Foundations</li>
   <li>🧠 IT Specialist in Databases – Certiport</li>
   <li>⚙️ HackForGov 2025 – CALABARZON</li>
-  <li>🌐 Responsive Web Design – freeCodeCamp</li>
 </ul>
 </p>
 
