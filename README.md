@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer from the Philippines.</p>
+<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer.</p>
 
 ###
 
