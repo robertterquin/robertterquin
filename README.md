@@ -1,3 +1,45 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+📚 I'm currently learning Flutter and Node.js<br>
+🎯 Goals: Become a professional full stack mobile and web developer<br>
+</p>
+
+###
+
+<h2 align="left">🏆 Achievements</h2>
+
+###
+
+<p align="left">
+💻 <b>Developed:</b> Various web and mobile applications for academic, personal projects, and clients<br><br>
+
+🏅 <b>Certifications:</b>
+<details>
+  <summary>🎓 <b>View My Certifications & Achievements</b></summary>
+
+  <ul align="left">
+    <li>🏆 6th Placer – National Programming Challenge 2024 (CodeChum)</li>
+    <li>💼 Microsoft Office Specialist – PowerPoint 2019 Associate</li>
+    <li>☕ Oracle Academy – Java Foundations</li>
+    <li>🧠 IT Specialist in Databases – Certiport</li>
+    <li>⚙️ 2nd Runner Up – HackForGov 2025 – CALABARZON</li>
+  </ul>
+</details>
+</p>
+
+###
+
 <h2 align="left">💻 Tech Stack</h2>
 
 <details>
