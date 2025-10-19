@@ -25,13 +25,18 @@
 💻 <b>Developed:</b> Various web and mobile applications for academic, personal prejects, and clients<br><br>
 
 🏅 <b>Certifications:</b>
-<ul align="left">
-  <li>🏆 National Programming Challenge 2024 – CodeChum</li>
-  <li>💼 Microsoft Office Specialist – PowerPoint 2019 Associate</li>
-  <li>☕ Oracle Academy – Java Foundations</li>
-  <li>🧠 IT Specialist in Databases – Certiport</li>
-  <li>⚙️ HackForGov 2025 – CALABARZON</li>
-</ul>
+<details>
+  <summary>🎓 <b>View My Certifications & Achievements</b></summary>
+
+  <ul align="left">
+    <li>🏆 6th Placer – National Programming Challenge 2024 (CodeChum)</li>
+    <li>💼 Microsoft Office Specialist – PowerPoint 2019 Associate</li>
+    <li>☕ Oracle Academy – Java Foundations</li>
+    <li>🧠 IT Specialist in Databases – Certiport</li>
+    <li>⚙️ 2nd Runner Up – HackForGov 2025 – CALABARZON</li>
+  </ul>
+</details>
+
 </p>
 
 ###
