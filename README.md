@@ -22,7 +22,7 @@
 ###
 
 <p align="left">
-💻 <b>Developed:</b> Various web and mobile applications for academic and personal projects<br><br>
+💻 <b>Developed:</b> Various web and mobile applications for academic, personal prejects, and clients<br><br>
 
 🏅 <b>Certifications:</b>
 <ul align="left">
