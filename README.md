@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer from the Philippines.</p>
+<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 ###
 
 <p align="left">
-💻 <b>Developed:</b> Various web and mobile applications for academic and personal projects<br>
+💻 <b>Developed:</b> Various web and mobile applications for academic and clients<br>
 🏅 <b>Certification:</b> Responsive Web Design (freeCodeCamp)<br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=robertlaqui&theme=tokyonight" alt="GitHub Streak" />
 </p>
