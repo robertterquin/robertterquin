@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer.</p>
+<p align="left">My name is <b>Robert Terquin C. Laqui</b> and I'm a Web & Mobile Developer from the Philippines.</p>
 
 ###
 
@@ -22,8 +22,18 @@
 ###
 
 <p align="left">
-💻 <b>Developed:</b> Various web and mobile applications for academic and clients<br>
-🏅 <b>Certification:</b> Responsive Web Design (freeCodeCamp)<br>
+💻 <b>Developed:</b> Various web and mobile applications for academic and personal projects<br><br>
+
+🏅 <b>Certifications:</b>
+<ul align="left">
+  <li>🏆 National Programming Challenge 2024 – CodeChum</li>
+  <li>💼 Microsoft Office Specialist – PowerPoint 2019 Associate</li>
+  <li>☕ Oracle Academy – Java Foundations</li>
+  <li>🧠 IT Specialist in Databases – Certiport</li>
+  <li>⚙️ HackForGov 2025 – CALABARZON</li>
+  <li>🌐 Responsive Web Design – freeCodeCamp</li>
+</ul>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=robertlaqui&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -95,4 +105,3 @@
 </p>
 
 ---
-
